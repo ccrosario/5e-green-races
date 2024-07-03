@@ -344,14 +344,16 @@ At 14th level, you gain a magical benefit based on a totem animal of your choice
 
 :
 **Prerequisites.** To qualify for multiclassing into the raider class, you must meet these prerequisites: 13 Strength, 13 Constitution.
+
 \column
+
 **Proficiencies.** When you multiclass into the raider class, you gain the following proficiencies: light armor, medium armor, shields simple weapons, and martial weapons.
 :
 **Restriction.** You can't multiclass into the barbarian class.
 
 ![slinger](https://i.imgur.com/B9pkVwk.png) {width:360px}
 
-{{watercolor1,top:130px,left:400px,width:350px,background-color:#BBAD82,opacity:30%}}
+{{watercolor1,top:130px,left:400px,width:350px,background-color:#BBAD82,opacity:80%}}
 
 ## Slinger
 
@@ -1222,6 +1224,13 @@ spirit of the body returns with no memory of its time out of body.
 Once you use this feature, you cannot do so again until after
 you finish a long rest.
 
+{{imageMaskCorner6,--offsetX:40%,--offsetY:-50%,--rotation:20
+  ![](https://cdnb.artstation.com/p/assets/images/images/007/437/699/large/mitch-mueller-final-orc-conj.jpg){height:90%,top:700px,left:100px}
+}}
+<!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
+     Use --offsetY to shift the mask up or down
+     Use --rotation to set rotation angle in degrees. -->
+
 {{pageNumber,auto}}
 {{footnote BONESHAKER | CIRCLE OF SPIRITS}}
 
@@ -1231,12 +1240,12 @@ you finish a long rest.
 
 {{watercolor10,top:0px,left:70px,width:300px,background-color:#BBAD82,opacity:80%}}
 
-### Apostates
+### Apostate
 
 Boneshaker Apostates make pacts with spirits of the primal
 elements, those of the elemental plane whose primordial
 energies are said to have created the world. Apostates generally reject the invocation of ancestors and find even the petitiong of Orc gods to be a sign of weakness. Gruumsh is an uncaring god and if he were to share his wisdom, it would only be with those that could truly understand the primordial elements, the layer of chaotic energy over the world. The spiritual elitism and outward disdain they show for common orc practices often finds them in mixed company. Even spirits are cautious around apostates, as they know in the end the apostate will seek to dominate them, forcing the spirit to carry out their will.
-
+:
 The path of an apostate is usually a solitary one, with the most powerful having only met in the most dire and cataclysmic of circumstances. This has led to most practitioners following a master/apprentice dynamic. Most apprentices eventually turn away from this practice after their master dies (most likely by the hand of their student), since primal spirits are violent and unpredictable, but dedicated Apostates embrace this fear to command elements of great and awesome power.
 
 | Spell Level | Spells                                  |
@@ -1327,7 +1336,7 @@ break concentration on this spell.
 
 At 18th level, the most ferocious, dangerous nature spirit has been drawn to your power and will heed your command, if you so call on it. This spirit manifests as the primordial itself, made
 physical and visceral on the material plane.
-
+:
 As an action,
 choose a point within 100 feet of you. The spirit manifests as a
 wave of pure primal energy in a 30 foot radius centered on that
@@ -1346,11 +1355,20 @@ element of your choice from the table below.
 | Lightning | The target's system is shocked as lightning arcs through it. The target cannot make reactions or take bonus actions. The target makes a Constitution saving throw against your Boneshaker spell save DC at the end of each of its turn, ending the effect on a success.    |
 | Thunder   | The target is knocked prone and deafened for 1 minute. The 30 foot radius area of Spirit of Chaos becomes difficult terrain as echoes of the thunder create a tumultuous sound fog that lingers low over the battlefield for the next minute.                              |
 
+:
 On a successful
 save, a target only takes half damage and does not suffer an
 additional effect.
 Once you do this, you may not do so again until after you
 finish a long rest.
+
+{{imageMaskEdge3,--offset:10%,--rotation:0
+  ![](https://tamrielvault.com/public/album_photo/25/21/02/21d06_9521.jpg){height:75%,top:550px,left:-150px}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
+
 
 {{pageNumber,auto}}
 {{footnote BONESHAKER | APOSTATE}}
@@ -1541,6 +1559,12 @@ finish a long rest.
 
 \* *Spell rules are listed in the Additional Spells section.*
 
+{{imageMaskEdge3,--offset:38%,--rotation:0
+  ![](https://i.imgur.com/mtKngk2.jpeg){height:56%,top:650px,left:-150px}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
 {{pageNumber,auto}}
 {{footnote BONESHAKER | SPELL LIST}}
 
@@ -1706,6 +1730,8 @@ and the target explodes in a lava burst. Every other creature
 within 15 feet of target (excluding you) must succeed on a
 Dexterity saving throw or else take 8d6 fire damage.
 
+\column
+
 #### Totemic Attunement
 
 *Abjuration cantrip*
@@ -1755,21 +1781,661 @@ attack, one for every two slot levels above 3rd.
 :
 **Proficiencies.** When you multiclass into the boneshaker class, you gain the following proficiencies: light armor, medium armor, shields, woodcarvers tools.
 
+{{imageMaskCorner1,--offsetX:-35%,--offsetY:-35%,--rotation:65
+  ![](https://d1vzi28wh99zvq.cloudfront.net/images/8135/_product_images/322632/DeanSpencer-spotcol-orcshamanFP.jpg){height:80%,top:610px,left:-230px}
+}}
+<!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
+     Use --offsetY to shift the mask up or down
+     Use --rotation to set rotation angle in degrees. -->
+
+
+
 {{pageNumber,auto}}
 {{footnote BONESHAKER | ADDITIONAL SPELLS}}
 
 \page
 
+![cat warrior](https://i.imgur.com/2CBVm0V.png) {width:330px,mix-blend-mode:multiply}
+
+{{watercolor1,top:60px,left:30px,width:300px,background-color:#BBAD82,opacity:80%}}
+
+## Boss
+:
+In the brutal hierarchy of orc society, orc bosses reign supreme, wielding not just brute strength but a cunning mind honed in the art of strategy. They are the epitome of Ilneval's influence, where battles are not won by mere force alone but by calculated maneuvers and tactical brilliance. Often hailing from the esteemed lines of orc nobility, these bosses command respect and fear alike, their every decision shaping the fate of their warbands and clans. In the chaos of conflict, they emerge as formidable leaders, blending martial prowess with a keen intellect to secure victory in the name of their people.
+
+#### Quick Build
+First, make Strength your highest ability score if you plan on
+focusing on melee weapons, or Dexterity if you plan on using
+ranged weapons. That score should be followed by Charisma in order to enable your social skills to shine. Constitution
+should be the next highest score to ensure you have enough
+health to survive in the head of combat.
+
+## Class Features
+As a Commander, you gain the following features:
+
+#### Hit points
+**Hit Dice:** 1d10 per Commander level\
+**Hit Points at 1st Level:** 10 + Constitution Modifier\
+**Hit Points at Higher Levels:** 1d10 (or 6) + Constitution\
+Modifier per Commander level past 1st\
+**Proficiencies:** Light Armor, Medium Armor, Shields, Simple weapons, Martial weapons\
+**Tools:** A gaming set of your choice\
+**Saving Throws:** Strength, Wisdom\
+**Skills:** Choose two from Athletics, History, Insight,
+Performance, Intimidation, and Persuasion\
+
+#### Equipment
+You start with the following equipment, in addition to the
+equipment granted by your background:
+
+- (a) Two martial weapons or (b) a martial weapon and a
+shield
+- (a) Studded Leather armor and a simple weapon or (b)
+Chain Shirt
+- (a) A simple ranged weapon and 20 pieces of ammunition
+or (b) an explorer's pack
+- A Diplomat's pack
+
+#### Tribal Leadership
+Beginning at 1st level, your unusual social intuition enables you
+to converse closely with all manner of orc, and your aura of
+leadership makes others attribute more value to your word.
+You gain proficiency with one of the following skills:
+Intimidation, Deception or Persuasion.
+:
+At 6th level, you gain proficiency in whichever two skills
+you did not choose when you first took this feature.
+Additionally, you double your proficiency bonus when making
+checks with the skill you did choose.
+
+#### Tactical Focus
+Starting at 1st level, whenever you roll initiative, you can
+mark a 10-foot cube centered around a point you can see
+within 60 feet of you. That area becomes your Tactical Focus.
+:
+Your Tactical Focus disappears when combat ends. As a
+bonus action, you can move your Tactical Focus to a new point you can see within 60 feet of you. If you are ever further
+than 120 feet from the center of your Tactical Focus, it
+disappears.
+:
+Also as a bonus action, you can issue a battle command to
+your Tactical Focus. The battle command remains active until
+the start of your next turn. You cannot have more than one
+battle command active at the same time. You can issue a
+number of battle commands equal to your proficiency bonus
+each encounter.
+:
+You know a number of battle commands equal 1 + your
+Charisma Modifier (minimum of 1). Your battle command
+options are detailed at the end of the class description.
+Whenever you gain a level in this class, you can exchange one
+of your battle commands for a different battle command on
+this list.
+:
+The size of your Tactical Focus area increases when you
+reach certain levels in this class: 15-foot cube at 6th level, and
+20-foot cube at 12th level, and 25-foot cube at 18th level.
+
+#### Fighting Style
+Upon reaching 2nd level, you adopt a style of fighting as your
+specialty. Choose one of the following options. You can't take
+a Fighting Style option more than once, even if you later get
+to choose again.
+
+{{pageNumber,auto}}
+{{footnote BOSS}}
+
 \page
 
-{{wide
+#### Interception
+When a creature you can see hits a target, other than you,
+within 5 feet of you with an attack, you can use your reaction
+to reduce the damage the target takes by 1d10 + your
+proficiency bonus (to a minimum of 0 damage). You must be
+wielding a shield or simple or martial weapon to use this
+reaction.
 
-### Asset Sources
+#### Protection
+When a creature you can see attacks a target other than you
+that is within 5 feet of you, you can use your reaction to
+impose disadvantage on the attack roll. You must be wielding
+a shield to use this reaction.
 
-| Image      |                                 Source                                 |
-| :--------- | :-------------------------------------------------------------------- |
-| Raider     |                                   -                                    |
-| Slinger    |                                   -                                    |
-| Boneshaker | <https://www.deviantart.com/akeiron/art/Gladiatorial-Arenas-625043633> |
-| Apostate   |            <https://fragmentsofruin.fandom.com/wiki/Meg'og>            |
+#### Superior Technique
+You learn one maneuver of your choice from among those
+available to the Battle Master archetype. If a maneuver you
+use requires your target to make a saving throw to resist the
+maneuver's effects, the saving throw DC equals 8 + your
+proficiency bonus + your Strength or Dexterity modifier (your
+choice).
+:
+You gain one superiority die, which is a d6 (this die is
+added to any superiority dice you have from another source).
+This die is sued to duel your maneuvers. A superiority die is
+expended when you use it. You regain your expended
+superiority dice when you finish a short or long rest.
+
+#### Tactical Opportunist
+You gain a +2 bonus to damages rolls made against targets
+that have been damaged by a friendly creature this round.
+
+#### Boss Positions
+At 3rd level, Commanders choose a position of command to
+structure their combat tactics around. Choose Position of the Guardian, Vanguard, General, Conqueror, or Luminary. Their
+abilities are detailed at the end of the class description.
+
+#### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and
+19th level, you can increase one ability score of your choice
+by 2, or you can increase two ability scores of your choice by
+1\. As normal, you can't increase an ability score above 20
+using this feature.
+
+#### Extra Attack
+Beginning at 5th level, you can attack twice, instead of once,
+whenever you take the Attack action on your turn.
+
+#### For the Horde!
+Starting at 6th level, your presence empowers and emboldens
+your allies, even in the most dire situations. As an action, you
+let out a war cry, reinvirograting your allies. You end any
+Charmed or Fightened conditions on a number of friendly
+creatures you choose within 30 feet of you. In addition, your
+Rally gains an effect depending on your Commander
+position, listed below in the Commander position
+descriptions.
+:
+Once you have used this feature, you must finish a short or
+long rest before you can use it again.
+
+#### Fearless Leader
+When you reach 9th level, your prowess as a leader of your
+people has emboldened your resolve to soaring heights. You
+cannot be Charmed or Frightened.
+
+#### Whip Into Shape
+At 13th level, you learn to motivate your allies whenever you
+refuel for an adventure. After finishing a short or long rest,
+any friendly creatures that rested with you gain temporary hit
+points equal 1d10 + your Charisma Modifier (minimum of 1).
+
+#### Tribal Champion
+Starting at 17th level, your devotion to your people burns like
+a fire inside of you. If you drop to 0 hit points and don't die
+outright while a friendly creature is within 15 feet of you, you
+drop to drop to 1 hit point instead and regain 1d10 hit points
+for each friendly creature within 15 feet of you.
+:
+Once you have used this feature once, you cannot benefit
+from it again until you finish a long rest.
+
+{{imageMaskCorner26,--offsetX:50%,--offsetY:-50%,--rotation:0
+  ![](https://uploads.worldanvil.com/uploads/images/d244ce0b93e454337f2e9b2fcec87cd0.png){height:43%,top:510px,left:390px}
 }}
+<!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
+     Use --offsetY to shift the mask up or down
+     Use --rotation to set rotation angle in degrees. -->
+     
+{{watercolor6,top:480px,left:440px,width:300px,background-color:#BBAD82,opacity:90%}}
+
+{{pageNumber,auto}}
+{{footnote BOSS}}
+
+\page
+
+#### Ilneval's Cunning
+At 20th level, the influence you exert with your Tactical Focus
+becomes so great that it can alter the landscape around it.
+Whenever you place your Tactical Focus, you can cast mirage
+arcane instantaneously as part of the placement of your
+Tactical Focus without any components. The spell only
+affects the area inside your Tactical Focus, and the spell's
+effect ends when your Tactical Focus dissipates.
+:
+After you have used this feature, you cannot use it again
+until you finish a long rest.
+
+## Battle Commands
+:
+The Battle Commands are presented in alphabetical order. If
+a battle command has prerequisites, you must meet them to
+learn it. You can learn the invocation at the same time that
+you meet its prerequisites. A level prerequisite refers to your
+level in this class.
+
+#### Advance!
+While this battle command is active, friendly creatures can
+use their bonus action on their turn to move up to their
+movement speed toward your Tactical Focus.
+
+#### Attack as One!
+Prerequisite: 11th level
+:
+While this battle command is active, whenever you or a
+friendly creature hits a target in your T actical Focus with a
+weapon attack, all willing creatures also in the T actical Focus
+wielding weapons can add their weapon's damage die to the
+damage roll, provided they are within range to hit the target
+with that weapon. A creature's attacks cannot benefit from
+this feature more than once per turn.
+
+#### Break Them Down!
+While this battle command is active, whenever you or a
+friendly creature deals bludgeoning damage to a target in
+your T actical Focus, they ignore any resistance that target has
+to bludgeoning damage and deal half damage to targets with
+any immunity to bludgeoning damage.
+In addition, attack rolls against structures are made with
+advantage, and any hit on structures is a critical hit.
+
+\column
+
+#### Cut Them Down!
+While this battle command is active, whenever you or a
+friendly creature deals slashing damage to a target in your
+T actical Focus, they ignore any resistance the target has to
+slashing damage and deal half damage to targets with
+immunity to slashing damage.
+In addition, once per turn when a friendly creature rolls
+damage for a weapon attack that deals slashing damage, they
+can reroll the weapon's damage dice and use either total.
+
+#### Clear A Path!
+Prerequisite: Vanguard Brigade
+:
+While this battle command is active, whenever a you or
+friendly creature hits a target of the same size or smaller in
+your T actical Focus with a weapon attack, the target is
+pushed 5 feet away from the attacker.
+
+#### Don't Let Them Escape!
+Prerequisite: 7th level
+While this battle command is active, whenever a you or a
+friendly creature in the T actical Focus hit a target with an
+opportunity attack, the target's speed is reduced to 0 until the
+start of their next turn.
+
+#### Finish Them Off!
+Prerequisite: Horde Brigade
+While this battle command is active, whenever you or a
+friendly creature hits a target in the T actical Focus with a
+weapon attack can reduce the target to 0 hit points with a
+given die result, it does.
+
+#### Focus Fire!
+Prerequisite: 11th level
+:
+Choose a creature inside your Tactical Focus that you can
+see. When this battle command ends on the start of your next
+turn, the target must make a Constitution saving throw or be
+stunned until the end of its next turn. The DC equals 10 + the
+number of attacks that hit the target while this battle
+command was active.
+
+{{imageMaskEdge4,--offset:23%,--rotation:-19
+  ![](https://www.enworld.org/attachments/orcs-png.140274/){height:100%,top:520px}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
+{{pageNumber,auto}}
+{{footnote BOSS}}
+
+\page
+
+#### Hold The Line!
+Prerequisite: 5th level
+:
+While this battle command is active, you and friendly
+creatures in your T actical Focus count as one size larger for
+determining cover, and have advantage on ability checks and
+saving throws to avoid being moved against your will.
+
+#### Make An Opening!
+Prerequisite: 5th level
+:
+Choose a creature in your T actical Focus that you can see.
+When this battle command ends on the start of your next
+turn, the target receives a penalty to their next saving throw
+equal to the number of weapon attacks that hit the target
+while this battle command was active.
+
+#### On My Way!
+Prerequisite 7th level
+:
+Choose a friendly creature you can see in your T actical Focus.
+As part of the bonus action used to activate this Battle
+Command, you can move up to your base movement speed
+toward the target without expending any movement. If you
+reach the target, they receive 1d6 temporary hit points.
+:
+The target receives an additional d6 temporary hit points for
+every opportunity attack you provoked this turn.
+
+#### On My Mark!
+Once while this battle command is active when you make a
+weapon attack against a creature in your T actical Focus, you
+can choose a friendly creature within 60 feet of you that can
+see or hear you. The creature can use its reaction to make
+one weapon attack against the target, provided they are
+within range. If the friendly creature is also in your T actical
+Focus, they have advantage.
+
+#### Pierce Their Defenses!
+While this battle command is active, whenever you or a
+friendly creature deals piercing damage to a target in your
+T actical Focus, they ignore any resistance that target has to
+piercing damage and deal half damage to targets with any
+immunity to piercing damage.
+:
+In addition, attack rolls with weapons dealing piercing
+damage ignore shields when determining the armor class of
+the target.
+
+#### Protect Your Allies!
+Prerequisite: Bulwark Brigade
+:
+Choose a friendly creature in your T actical Focus that can see
+or hear you. While this battle command is active, when the
+target takes damage from a weapon attack or certain area
+effects such as a blue dragon's lightning breath or a cone of
+cold spell, another willing creature in your T actical Focus can
+use their reaction to halve the damage the target would have
+taken, inflicting that damage on themselves.
+
+#### Reform!
+Prerequisite: Stratagem Brigade
+:
+While this battle command is active, allies in your T actical
+Focus can exchange positions in the initiative order without
+expending any actions. At the beginning of the next round of
+combat, two friendly, willing creatures may choose take one
+another's place in the initiative order. The creatures revert to
+their original place in the initiative order when the next round
+of combat starts.
+
+#### Retreat!
+While this battle command is active, friendly creatures inside
+your T actical Focus can use their bonus action on their turn
+to move up to their movement away from the T actical Focus.
+This movement does not provoke opportunity attacks.
+
+#### Reposition!
+While this battle command is active, you and and any friendly
+creatures can move up to 15 feet within the T actical Focus
+without expending movement speed on their turn. This
+movement does not provoke opportunity attacks.
+
+#### Stand Together!
+While this battle command is active, you and every other
+friendly creature in your T actical Focus gains a bonus to their
+armor class equal to the number of creatures friendly to them
+also within your T actical Focus.
+
+{{imageMaskCorner26,--offsetX:50%,--offsetY:-60%,--rotation:0
+  ![](https://cdn.shopify.com/s/files/1/0021/4754/9236/files/latest_9_480x480.png){height:60%,top:600px,left:260px}
+}}
+<!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
+     Use --offsetY to shift the mask up or down
+     Use --rotation to set rotation angle in degrees. -->
+
+{{pageNumber,auto}}
+{{footnote BOSS}}
+
+\page
+
+## Boss Brigade
+:
+
+Becoming a boss among orcs is more than just barking orders. Bosses are the students of Ilneval, and forge their own battle plans specifically crafted around the distinctive strengths of their allies, serving as a guiding force to deftly balance and amplify the skill of every warrior. When a boss organizes their fighting force into a brigade, their brigade fills a specialization they collectively spend years perfecting. Many an orc have racked up kills staying entrenched for months, holding a line that secures an important strategic position for their Warboss.
+
+### Bulwark
+Bosses who lead Bulwarks are the
+anchor of the team. Plated with the toughest body and spirit,
+the Boss provides their allies necessary protection to
+grant them respite from enemy assaults and allow them to
+move safely across hostile battlefields.
+
+#### Heavy Plating
+Starting when you form a Bulwark at 3rd level, you gain proficiency in heavy armor.
+
+#### Defensive Position
+Beginning at 3rd level, you become the anchor of the fight and your Bulwark's strength centers around you.
+As an action, you can settle yourself into a defensive
+position, reducing your movement speed to 5 feet. While in
+your defensive position, you gain a bonus to your AC equal to
+your Constitution modifier, and friendly creatures you choose
+within 5 feet of you gain a bonus to their AC equal to your
+shield's bonus. This effect persists until you are incapacitated
+or you end it (no action required).
+
+#### Additional Rally Effect
+When you use your Rallying the Troops feature, you shout a
+bolstering cheer that grants friendly creatures within range
+temporary hit points equal to your Commander level.
+
+#### Stubborn Defense
+At 7th level, while you are at least Small, your body counts as
+half cover for all friendly creatures. While you maintain your
+defensive position, your body counts as three-quarters cover.
+
+#### Aegis Fighter
+Once you reach 11th level, as long as you have your shield,
+you are never without a weapon. A standard shield now
+counts as a martial melee weapon for you that deals 1d6 +
+your Strength modifier bludgeoning damage with the
+versatile (d8) and thrown (range 20/60) properties.
+
+\column
+
+#### Immovable Body, Immovable Spirit
+Starting at 15th level, you gain proficiency in Constitution
+saving throws.
+:
+In addition, whenever you fail an ability check or saving
+throw that would subject you to a condition listed in
+Appendix A of the Player's Handbook, or move you against
+your will, you can choose to succeed instead.
+Once you have used this feature, you cannot use it again
+until you finish a long rest.
+
+#### At Any Cost
+At 18th level, unless you choose to end it, your defensive
+position does not end until you die.
+:
+
+### Vanguard
+Being the Boss of a Vanguard requires an iron gut and a heart
+of steel. These Bosses charge headfirst into the
+battlefield, using their steadfast confidence to strike fear into
+their enemy and break open their ranks for their allies to
+cleave through. Even in the most dire of situations, the Boss inspires their armies with unmatchable heroism.
+
+#### Command from the Front
+When you form a Vanguard at 3rd level you have advantage on initiative rolls.
+
+#### Charging Strike
+Also beginning at 3rd level, whenever you use the Dash
+action, you can make one melee weapon attack or Shove
+attack as part of your action.
+:
+You can use this feature a number of times equal to your
+proficiency modifier. You regain all expended uses of this
+feature after you finish a short or long rest.
+
+#### Additional Rally Effect
+When you use your Rallying the Troops feature, you lead an
+envigorating charge. You and all friendly creatures within
+range have their base movement speed(s) doubled until the
+end of their next turn.
+
+#### Cunning Combatant
+Starting at 7th level, you can maneuver through the battlefield
+in a whirlwind of speed. You can take a bonus action on each
+of your turns in combat. This action can be used to take the
+Dash, Disengage, or Help actions.
+
+#### Finish Them!
+Starting at 11th level, your attacks can create openings for
+your allies to follow up on. Whenever you hit a creature that
+has not taken damage in the combat yet with a weapon
+attack, the next attack roll against that target before the start
+of your next turn made by a creature other than you has
+advantage.
+
+{{pageNumber,auto}}
+{{footnote BOSS}}
+
+\page
+
+#### Fleet Footwork
+When you reach 15th level, your maneuverability on the
+battlefield is nearly unimpeded. You gain the following
+benefits:
+- Your base walking speed increases by 10 feet.
+- Your movement is not slowed by difficult terrain.
+- Standing up from prone costs you only 5 feet of movement, rather than half your speed.
+- Mounting or dismounting a creature costs you only 5 feet of movement, rather than half your speed.
+
+#### Bahgtru Suffers No Cowards!
+At 18th level, your agility and prowess over the battle has
+become second nature. You no longer need to compete with
+others for the first charge. You always have the highest
+initiative in combat.
+
+### Stratagem
+An Orc Boss leading a Stratagem of officers is a towering presence of leadership and command among orcs. Renowned for their martial prowess and tactical acumen, they wield authority with an iron fist, overseeing officers who execute their orders with precision. These bosses inspire fierce loyalty and fear, orchestrating campaigns with calculated aggression and strategic brilliance to dominate their enemies.
+
+#### Kill It Like This!
+Starting when you take Position of the General at 3rd level,
+you can use the Help action as a bonus action.
+Additionally, when you use the help action to aid an ally in
+attacking the creature, if the target is in your T actical Focus
+and you can see or hear them, you can use the Help action
+even if the target is not within 5 feet of you.
+
+#### Additional Rally Effect
+When you use your For the Horde! feature, you can
+immediately reorganize your tactical approach. You can move
+your T actical Focus to another point within range and issue a
+battle command as part of the action you expend to use your
+For the Horde! feature. Issuing a battle command in this
+way does not expend any uses of your battle commands
+granted by Tribal Leadership.
+
+#### Mind of Ilneval
+At 7th level, your strategic knowledge translates into superior
+intellect. You gain proficiency in Intelligence saving throws
+and two of the following skills that you choose: Arcana,
+History, Investigation, Nature, or Religion.
+
+#### I've Seen This Before...
+Starting at 11th level, you learn to predict the enemy's attacks
+before they make them, allowing you to reposition your allies
+accordingly. Whenever a creature you can see makes an
+attack roll against you, or a friendly creature in your T actical
+Focus that can see or hear you, you can use your reaction to
+impose disadvantage on the roll.
+:
+You can use this reaction a number of times equal to your
+Charisma modifier (minimum of 1). You regain all expended
+uses of this feature after you finish a long rest.
+
+#### Always Three Steps Ahead
+At 15th level, you are constantly calculating battle strategies
+and preparing for contingencies. You and all friendly
+creatures within 30 feet of you cannot be surprised while you
+are conscious.
+
+#### Ilneval's Champion
+Once you reach 18th level, you know all battle commands.
+
+### Horde
+Fighting is not about camaraderie, nor vengence, nor glory,
+nor principle. You fight for one purpose: to win. For the
+the Boss that leads a Horde, your enemies are nothing more
+than obstacles in your way to a greater, self-serving purpose.
+Likewise, your allies are nothing more than the means to
+your ends, tools at your disposal to lay waste to all who would
+stand against you. The keepers of the ancient ways of orc warfare, the Horde is as inspiring as they are ruthless.
+:
+In times without conflict, Horde warriors are utilized as sentinels over sacred sites, as well as honor guard for Warbosses and nobility alike. They do not shirk this honor however, as they see themselves as keepers of the ancient ways in all aspects of orc culture.
+
+#### Unerring Intimidation
+Beginning when you take the Position of the Conqueror at
+3rd level, whenever you make a Charisma (Intimidation)
+check, you can treat any d20 roll of 7 or lower as an 8.
+
+#### Subjugate
+Also starting at 3rd level, whenever a friendly creature within
+30 feet of you hits a target with a weapon attack, you can use
+your reaction to make a weapon attack against the target,
+provided you are within range.
+:
+You can use his feature a number of times equal to your
+Charisma modifier (minimum of 1). You regain all expended
+uses of this feature after you finish a long rest.
+
+#### Additional Rally Effect
+When you use your For the Horde! feature, you let out a
+bloodcurdling howl that boils the blood of your nearby allies.
+You and all friendly creatures within range gain additional
+damage on their next weapon attack equal to your Charisma
+modifier.
+
+{{pageNumber,auto}}
+{{footnote BOSS}}
+
+\page
+
+#### Expanding Influence
+At 7th level, your influence over the battlefield grows as you
+bring down your enemies. Whenever a creature you can see
+dies, the space they occupied when they died counts as part
+of your T actical Focus until the end of combat. This space
+does not move when you move your T actical Focus.
+
+#### There Can Only Be One
+At 11th level, your iron fist grasps your allies so closely that
+they are resistant to any demands originating from someone other than you. All creatures you choose within 60 feet of you
+have advantage on saving throws made against effects such
+as the command spell that would cause a creature to act
+against their will.
+
+#### Grovel Before The Horde!
+Upon reaching 15th level, you can leverage the overwhelming
+fear imposed by you and your forces to subdue your enemies
+without even striking at them.
+:
+As an action, select a point you can see within 60 feet and
+roll 10d10. The total is how many hit points of creatures this
+feature can affect. Creatures within 20 feet that point who
+can see or hear you are affected, in ascending order of their
+current hit points (ignoring unconscious creatures).
+:
+Starting with the creature that has the lowest current hit
+points, each creature affected by this feature is charmed by
+you for 8 hours and falls prone. Subtract each creature’s hit
+points from the total before moving on to the creature with
+the next lowest hit points. A creature’s hit points must be
+equal to or less than the remaining total for that creature to
+be affected.
+:
+Once you have used this feature, you cannot use it again
+unil you complete a short or long rest.
+
+#### You, the Great
+Once you reach 18th level, your indomitable might strikes
+terror into the hearts of all those who might oppose you, save
+for the strongest creatures in the realm. Attack rolls made by
+creatures with fewer current hit points than you have
+disadvantage.
+
+{{imageMaskEdge7,--offset:06%,--rotation:270
+  ![](https://uploads.worldanvil.com/uploads/images/b3004398b0f474b3f15185c54efc08ad.jpg){height:103%,top:-30px,left:250px}
+}}
+<!-- Use --offset to shift the mask away from page center (can use cm instead of %)
+     Use --rotation to set rotation angle in degrees. -->
+
+{{pageNumber,auto}}
+{{footnote BOSS}}
